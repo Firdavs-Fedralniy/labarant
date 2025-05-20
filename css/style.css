@@ -95,7 +95,7 @@ li {
 
 .hero {
   background-color: #04243d;
-  padding: 100px 0px;
+  padding: 200px 0px;
 }
 
 .color-1 {
@@ -284,5 +284,20 @@ body {
 }
 
 .nimadi_wrapper {
-  margin-top: -150px;
+  margin-top: -230px;
+}
+
+.sasal {
+  background-color: #04435e;
+  list-style: none;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 20px;
+}
+
+.boxxx {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }/*# sourceMappingURL=style.css.map */
