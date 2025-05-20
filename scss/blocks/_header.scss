@@ -1,0 +1,36 @@
+.header_ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.iteam {
+  color: #04243d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header_2 {
+  background-color: #04243d;
+}
+.a {
+  color: white;
+}
+.header_2_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header_2_ul {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.btn {
+  border: none;
+  list-style: none;
+  text-decoration: none;
+  background-color: #063050;
+  color: white;
+  padding: 20px 20px;
+  border-radius: 10px;
+}

@@ -1,108 +1,7 @@
-.container {
-  margin: 0 auto;
-  max-width: 1440px;
-  padding: 40px 20px;
-}
-
-a {
-  list-style: none;
-  text-decoration: none;
-}
-
-li {
-  list-style: none;
-  text-decoration: none;
-}
-
-.header_ul {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.iteam {
-  color: #04243d;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.header_2 {
-  background-color: #04243d;
-}
-
-.a {
-  color: white;
-}
-
-.header_2_wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.header_2_ul {
-  display: flex;
-  align-items: center;
-  gap: 30px;
-}
-
-.btn {
-  border: none;
-  list-style: none;
-  text-decoration: none;
-  background-color: #063050;
-  color: white;
-  padding: 20px 20px;
-  border-radius: 10px;
-}
-
-.hero_wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.p-1 {
-  color: #ffffff;
-  font-size: 36px;
-}
-
-.p-2 {
-  color: white;
-  max-width: 578px;
-}
-
-.btn-1 {
-  color: #04243d;
-  background-color: #ffffff;
-  padding: 10px 20px;
-  border: none;
-  list-style: none;
-  text-decoration: none;
-  border-radius: 10px;
-}
-
-.btn-2 {
-  border: 2px solid white;
-  color: white;
-  list-style: none;
-  text-decoration: none;
-  padding: 10px 20px;
-  background-color: #04243d;
-  border-radius: 10px;
-}
-
-.hero {
-  background-color: #04243d;
-  padding: 100px 0px;
-}
-
 .color-1 {
   color: #04243d;
   font-size: 48px;
 }
-
 .color {
   color: #04243d;
 }
@@ -117,12 +16,10 @@ li {
   border-radius: 40px;
   padding: 90px 300px;
 }
-
 .nimadi_content {
   align-items: center;
   justify-content: center;
 }
-
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
@@ -268,21 +165,17 @@ body {
   font-size: 14px;
   color: #777;
 }
-
 .niger {
   max-width: 400px;
 }
-
 .video-section {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-
-.mini {
+.mini{
   margin-bottom: 33px;
 }
-
-.nimadi_wrapper {
+.nimadi_wrapper{
   margin-top: -150px;
-}/*# sourceMappingURL=style.css.map */
+}

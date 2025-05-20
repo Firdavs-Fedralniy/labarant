@@ -1,0 +1,35 @@
+.hero_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.p-1 {
+  color: #ffffff;
+  font-size: 36px;
+}
+.p-2 {
+  color: white;
+  max-width: 578px;
+}
+.btn-1 {
+  color: #04243d;
+  background-color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  list-style: none;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.btn-2 {
+  border: 2px solid white;
+  color: white;
+  list-style: none;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #04243d;
+  border-radius: 10px;
+}
+.hero {
+  background-color: #04243d;
+  padding: 100px 0px;
+}
